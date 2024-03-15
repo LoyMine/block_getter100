@@ -1,5 +1,5 @@
 # block_getter100
-LoyMine is a collection of utilities for interacting with Web3 and Ethereum smart contracts.
+ block_getter100 is a collection of utilities for interacting with Web3 and Ethereum smart contracts.
 
 
 ## Features
@@ -13,11 +13,11 @@ LoyMine is a collection of utilities for interacting with Web3 and Ethereum smar
 You can install Simple Web3 Project via npm:
 
 ```bash
-npm install LoyMine
+npm install  block_getter100
 ```
 ## Usage
 
-const Web3Tools = require('LoyMine');
+const Web3Tools = require('block_getter100');
 
 // Initialize Web3Tools with your Ethereum provider URL
 const web3Tools = new Web3Tools('https://mainnet.infura.io/v3/your-infura-project-id');
